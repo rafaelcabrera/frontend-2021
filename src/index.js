@@ -1,1 +1,1 @@
-console.log('Hi iam script')
+alert('Hi iam script')
